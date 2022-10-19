@@ -8,7 +8,7 @@ We can then type the top and bottom text into the image.
 
 ## Objective
 
-Learn how to use states and fetch data inside function component with useState and useEffect hooks. 
+Learn how to use states and fetch data inside function components with useState and useEffect hooks. 
 
 ## Screenshot
 
