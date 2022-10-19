@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: .3em 1em;
+}
+
+.header-title {
+    display: flex;
+    align-items: center;
+    gap: .8em;
+}
+
+.header img {
+    display: block;
+    object-fit: contain;
+    width: 2.5rem;
+}
+
+.header h1 {
+    font-size: 1.5625em;
+}
+
+.header h3 {
+    font-size: 1em;
+}
